@@ -25,6 +25,7 @@
     height:90%;
     /* border:3px solid green; */
     /* margin:5px; */
+   
 }
 .icon_size_user{
     color:white;
@@ -37,7 +38,7 @@
     
     background-image: url("https://is5-ssl.mzstatic.com/image/thumb/Features114/v4/1c/30/cc/1c30cc8f-0ead-1bdf-e01d-c6d0de6f892a/Q1NILVRWQS1XVy1BVFZfUGx1cy1UZWRfTGFzc28ucG5n.png/1679x945sr.jpg");
     width:100%;
-  height:900px;
+  height:950px;
   justify-content: center;
   text-align: center;
   font-family: 'Readex Pro', sans-serif;
@@ -269,3 +270,666 @@ font-size: 20px;
 #logged_user{
     padding:2px;
 }
+
+/* ================================others page of landig part================================================================================================================================================= */
+.other_part_of_landingPage{
+    margin-top: 960px;;
+min-height:300px;
+background-color: #2D2D2D;
+/* border:4px solid green; */
+    
+}
+/* 
+===============================ravi landing page of latest originals========================================= */
+.Latest_originals{
+    width: 204px;
+height: 115px;
+border-radius: 10px;
+box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+
+
+   }
+   .latest_originals_slider_content_details{
+    width: 184px;
+    height: 83px;
+    margin-left: 10px;
+    margin-top: 15px;
+    color: rgb(192, 192, 192);
+   }
+   .Latest_originals_slider_style{
+     /* padding: 10px; */
+      width: 95%;
+      margin-left: 30px;
+      height: auto;
+        display: flex;
+      /* border:4px solid red; */
+
+      
+   }
+   /* *{
+    background-color: #2D2D2D;
+   } */
+   .Latest_originals_heading{
+     color: white;
+     margin-left: 30px;
+     padding-top: 10px;
+     font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+     font-size: 17px;
+     line-height: 20.91px;
+   }
+  
+.latest_originals_slider_content_details>div:nth-child(1){
+font-size: 11px;
+line-height: 13.09px;
+}
+.latest_originals_slider_content_details>div:nth-child(2){
+font-size: 15px;
+line-height: 22.05px;
+}
+.latest_originals_slider_content_details>p{
+font-size: 12px;
+line-height: 16.08px;
+}
+.Latest_originals_main{
+width: 100%;
+min-height: 200px;
+background-color: #2D2D2D;
+border:5px solid white;
+
+}
+.Latest_originals{
+    width:250px;
+    height:89%;
+}
+
+   /* ===================================watch entire season===================================================
+   ---------------------------------------------------------------------------------------------------- */
+   .Watch_Enitre_Seasons{
+    width: 250px;
+    border-radius:10px;
+  
+
+}
+.Watch_Enitre_Seasons_slider{
+  /* padding: 10px; */
+   width: 95%;
+   margin-left: 35px;
+   /* border:3px solid red; */
+   display:flex;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.Watch_Enitre_Seasons_heading{
+  color: white;
+  margin-left: 35px;
+  padding-top: 10px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+}
+.Watch_Enitre_Seasons_main{
+  width: 100%;
+  min-height: 203px;
+  background-color: #2D2D2D;
+}
+.Latest_originals_images{
+    display:flex;
+    /* border:3px solid yellow; */
+    margin-right:40px;
+
+min-height: 200px;
+
+  
+   
+   }
+   .Watch_Enitre_Seasons_images{
+       margin:18px;
+       /* border:3px solid yellow; */
+   }
+/* 
+   ==========================ramesh part immerse============================================================================================================================== */
+
+   *{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.apple_exordinary_background_video_div{
+    position: relative;
+    border: 1px solid black;
+    background-color: black;
+    width: 100%;
+    height: 90vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    color: white;
+    padding: 20px;
+    /* padding-top: 450px; */
+}
+.apple_exordinary_background_video_div h5,h3{
+    z-index: 1;
+    
+    /* margin-left: 50px; */
+}
+.apple_exordinary_background_video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+}
+.apple_exordinary_background_subhead{
+    /* border: 1px solid blue; */
+    z-index: 1;
+    flex: 1;
+}
+.apple_exordinary_background_video_sub{
+    flex: 3;
+}
+
+.apple_exordinary_background_subadd{
+    /* border: 1px solid red; */
+    /* margin-left: 40px; */
+    flex: 1;
+
+    width: 95%;
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    /* margin-bottom: 10px; */
+    bottom: 0;
+    overflow: scroll;
+    /* margin-bottom: 0vh; */
+
+
+}
+.apple_exordinary_background_subadd>div{
+    /* border: 1px solid white; */
+    margin: 10px;
+    /* width: 20%; */
+    /* height: 100px; */
+    border-radius: 5px;
+}
+.apple_exordinary_background_subadd>div>img{
+    width: 100%;
+
+    border-radius: 5px;
+}
+
+
+.largest_slide_show{
+    border: 30px solid;
+    margin: auto;
+}
+.largest_slide_show img{
+    width: 100%;
+}
+/* ========================================================coming soon======================================================================================================================================= */
+.Coming_Soon{
+    width: 302px;
+    height: 178px;
+    border-radius:10px;
+  
+
+}
+.Coming_Soon_slider{
+  padding: -15px;
+   width: 95%;
+   margin-left: 30px;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.Coming_Soon_heading{
+  color: white;
+  margin-left: 30px;
+  padding-top: 5px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+}
+.Coming_Soon_para{
+    font-size: 15px;
+    color: rgb(172, 171, 171);
+    line-height: 22.05px;
+    margin-left: 30px;
+    font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+}
+.Coming_Soon_main{
+  width: 100%;
+  height: 261px;
+  background-color: #2D2D2D;
+}
+/* ==========================Eerie tales========================================================================================================== */
+.Erie_Tales{
+    width: 250px;
+    border-radius:10px;
+  
+
+}
+.Erie_Tales_slider{
+  /* padding: 10px; */
+   width: 95%;
+   margin-left: 35px;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.Erie_Tales_heading{
+  color: white;
+  margin-left: 35px;
+  padding-top: 10px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+}
+.Erie_Tales_main{
+  width: 100%;
+  height: 203px;
+  background-color: #2D2D2D;
+}
+/* 
+===================================================stories around the globe================================================================================================================================== */
+.Stories_From_Around_The_Globe{
+    width: 250px;
+    border-radius:10px;
+  
+
+}
+.Stories_From_Around_The_Globe_slider{
+  /* padding: 10px; */
+   width: 95%;
+   margin-left: 35px;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.Stories_From_Around_The_Globe_heading{
+  color: white;
+  margin-left: 35px;
+  padding-top: 10px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+}
+.Stories_From_Around_The_Globe_main{
+  width: 100%;
+  height: 203px;
+  background-color: #2D2D2D;
+}
+/* ================================finding their voice==================================================================================================== */
+.Finding_Their_Voice{
+    width: 250px;
+    border-radius:10px;
+  
+
+}
+.Finding_Their_Voice_slider{
+  /* padding: 10px; */
+   width: 95%;
+   margin-left: 35px;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.Finding_Their_Voice_heading{
+  color: white;
+  margin-left: 35px;
+  padding-top: 10px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+}
+.Finding_Their_Voice_main{
+  width: 100%;
+  height: 203px;
+  background-color: #2D2D2D;
+}
+/* ===================-=================================extraordinaruy people=========================================================================== */
+.Extraordinary_People{
+    width: 204px;
+height: 115px;
+border-radius: 10px;
+box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+
+
+   }
+   .Extraordinary_People_slider_content_details{
+    width: 184px;
+    height: 83px;
+    margin-left: 10px;
+    margin-top: 15px;
+    color: rgb(192, 192, 192);
+   }
+   .Extraordinary_People_slider{
+     /* padding: 10px; */
+      width: 90%;
+      margin-left: 50px;
+      
+   }
+   /* *{
+    background-color: #2D2D2D;
+   } */
+   .Extraordinary_People_heading{
+     color: white;
+     margin-left: 50px;
+     padding-top: 10px;
+     font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+     font-size: 17px;
+     line-height: 20.91px;
+   }
+   #Extraordinary_People_images{
+    display: flex;
+   }
+.Extraordinary_People_slider_content_details>div:nth-child(1){
+font-size: 11px;
+line-height: 13.09px;
+}
+.Extraordinary_People_slider_content_details>div:nth-child(2){
+font-size: 15px;
+line-height: 22.05px;
+}
+.Extraordinary_People_slider_content_details>p{
+font-size: 12px;
+line-height: 16.08px;
+}
+.Extraordinary_People_main{
+width: 100%;
+height: 185px;
+background-color: #2D2D2D;
+}
+/* ===============================creatures and crittles======================================================================================= */
+.Creatures_critters{
+    width: 250px;
+    border-radius:10px;
+  
+
+}
+.Creatures_critters_slider{
+  /* padding: 10px; */
+   width: 95%;
+   margin-left: 35px;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.Creatures_critters_heading{
+  color: white;
+  margin-left: 35px;
+  padding-top: 10px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+}
+.Creatures_critters_main{
+  width: 100%;
+  height: 203px;
+  background-color: #2D2D2D;}
+/* }
+=========================================all drama series================================================================================== */
+.All_Drama_Serires{
+    width: 250px;
+    border-radius:10px;
+
+
+}
+.All_Drama_Serires_slider{
+  /* padding: 10px; */
+  width: 95%;
+   margin-left: 35px;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.All_Drama_Serires_heading{
+ color: white;
+  margin-left: 35px;
+  padding-top: 10px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+}
+.All_Drama_Serires_main{
+ width: 100%;
+ height: 203px;
+ background-color: #2D2D2D;
+}
+/* =====================================all feature film============================================================================================= */
+.All_Features_Flims{
+    width: 250px;
+    border-radius:10px;
+  
+
+}
+.All_Features_Flims_slider{
+  /* padding: 10px; */
+   width: 95%;
+   margin-left: 35px;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.All_Features_Flims_heading{
+  color: white;
+  margin-left: 35px;
+  padding-top: 10px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+}
+.All_Features_Flims_main{
+ width: 100%;
+ height: 203px;
+ background-color: #2D2D2D;
+}
+/* ======================================all comedy series=================================================================================== */
+.All_Comdey_Series_{
+    width: 250px;
+    border-radius:10px;
+  
+
+}
+.All_Comdey_Series__slider{
+  /* padding: 10px; */
+   width: 95%;
+   margin-left: 35px;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.All_Comdey_Series__heading{
+  color: white;
+  margin-left: 35px;
+  padding-top: 10px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+}
+.All_Comdey_Series_main{
+  width: 100%;
+  height: 203px;
+  background-color: #2D2D2D;
+}
+/* ==========================our amazing planet===================================================================================================== */
+.Our_Amazing_Planet{
+    width: 302px;
+    height: 178px;
+    border-radius:10px;
+  
+
+}
+.Our_Amazing_Planet_slider{
+ padding: -15px;
+   width: 95%;
+   margin-left: 30px;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.Our_Amazing_Planet_heading{
+  color: white;
+  margin-left: 30px;
+  padding-top: 5px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+}
+.Our_Amazing_Planet_para{
+    font-size: 15px;
+    color: rgb(172, 171, 171);
+    line-height: 22.05px;
+    margin-left: 30px;
+    font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+}
+.Our_Amazing_Planet_main{
+ width: 100%;
+  height: 261px;
+  background-color: #2D2D2D;
+}
+/* =================================all nonfiction series========================================================================================== */
+.All_Nonfiction_Series{
+    width: 250px;
+    border-radius:10px;
+  
+
+}
+.All_Nonfiction_Series_slider{
+  /* padding: 10px; */
+   width: 95%;
+   margin-left: 35px;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.All_Nonfiction_Series_heading{
+  color: white;
+  margin-left: 35px;
+  padding-top: 10px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+}
+.All_Nonfiction_Series_main{
+ width: 100%;
+ height: 203px;
+ background-color: #2D2D2D;
+}
+/* ===================================kids and family==================================================================================================== */
+.Kids_And_Family{
+    width: 302px;
+    height: 178px;
+    border-radius:10px;
+  
+
+}
+.Kids_And_Family_slider{
+ padding: -15px;
+   width: 95%;
+   margin-left: 30px;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.Kids_And_Family_heading{
+ color: white;
+  margin-left: 30px;
+  padding-top: 5px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+}
+.Kids_And_Family_para{
+ font-size: 15px;
+    color: rgb(172, 171, 171);
+    line-height: 22.05px;
+    margin-left: 30px;
+    font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+}
+.Kids_And_Family_main{
+ width: 100%;
+  height: 261px;
+  background-color: #2D2D2D;
+}
+/* ====================================fun for all============================================================================================= */
+.Fun_For_All{
+    width: 237px;
+    height: 141px;
+    border-radius:10px;
+  
+
+}
+.Fun_For_All_slider{
+  /* padding: 10px; */
+   width: 95%;
+   margin-left: 35px;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.Fun_For_All_heading{
+  color: white;
+  margin-left: 35px;
+  padding-top: 10px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+  opacity: 92.0%;
+}
+.Fun_For_All_main{
+ width: 100%;
+ height: 203px;
+ background-color: #2D2D2D;
+}
+/* ===========================inspiration for all============================================================================================= */
+.Inspiration{
+    width: 302px;
+    height: 178px;
+    border-radius:10px;
+  
+
+}
+.Inspiration_slider{
+ padding: -15px;
+   width: 95%;
+   margin-left: 30px;
+   
+}
+/* *{
+ background-color: #2D2D2D;
+} */
+.Inspiration_heading{
+  color: white;
+  margin-left: 30px;
+  padding-top: 5px;
+  font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 20.91px;
+}
+.Inspiration_para{
+    font-size: 15px;
+    color: rgb(172, 171, 171);
+    line-height: 22.05px;
+    margin-left: 30px;
+    font-family:apple-system, BlinkMacSystemFont, -webkit-system-font, "Malgun Gothic", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+}
+.Inspiration_main{
+  width: 100%;
+  height: 261px;
+  background-color: #2D2D2D;
+}
+/* =========================================footerLanding page part=============================================================================== */
+
