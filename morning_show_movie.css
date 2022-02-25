@@ -367,3 +367,74 @@
         padding-left: 30px;
       
     }
+
+
+
+
+    /* <----------------------------------> */
+    /* CAST AND CREW */
+    #mainCastAndCrew{
+        /* border:1px solid black; */
+        background-color: whitesmoke;
+        padding:24px;
+        }
+        /* //dimentions for the name written below the image */ */
+        /* } */
+        .main_CandC_images_box_name{
+            font-size:10px;
+        }
+        /* //dimentions for images; */
+        .main_CandC_images_box_image{
+            border-radius: 50%;
+            width:126px;
+            /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+        }
+        /* //css for the text written below the name */
+        .main_CandC_images_box_text{
+        font-size: 13px;
+        color:grey;
+        }
+        .main_CandC_images{
+            /* border:2px solid red; */
+          
+            display:flex;
+        }
+        .main_CandC_images_box{
+            /* border:1px solid green; */
+            /* margin:0.7%; */
+            text-align: center;
+            align-items: center;
+            padding:10px;
+          
+        }
+        
+        
+        .main_howToWatch{
+            width:425px;
+            /* border:2px solid yellow; */
+            margin-left: 30px;
+            margin-top: 30px;
+            }
+        
+        .main_howToWatch_div{
+            width:280px;
+           height:225px;
+           margin-top: 20px;
+          /* border:3px solid orange; */
+          border-radius: 15px;
+          overflow: hidden;
+          box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 8px;
+          
+        }
+        .main_howToWatch_box img{
+         width:100%;
+         height:160px;
+        
+        }
+        .main_howToWatch_freeTrial{
+            height:70px;
+            /* text-align: center; */
+           padding-left:15px;
+           padding-top: 17px;
+           background-color: rgb(240,240,243);
+        }
