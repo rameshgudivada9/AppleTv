@@ -22,4 +22,4 @@ Poster.poster=background[0].img;
 
 }
 
-var exit=setTimeout(slow,5000);
+var exit=setTimeout(slow,4000);

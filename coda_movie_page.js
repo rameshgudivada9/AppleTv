@@ -20,4 +20,4 @@ div.src=codaVideo[0].url;
 
 }
 
-var exit=setTimeout(slow,3000);
+var exit=setTimeout(slow,4000);
