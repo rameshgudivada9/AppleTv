@@ -188,7 +188,7 @@ video.src=backvideo[0].url;
 
 }
 
-setTimeout(slow,10000);
+setTimeout(slow,5000);
 
 
 
